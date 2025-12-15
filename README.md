@@ -28,6 +28,7 @@ Location dominates architecture-related searches. Rather than competing for broa
 1.	"Residential architect in Portland"
 2.	"Modern commercial architecture Boston"
 3.	"Eco-friendly home design Austin"
+
 Project type specificity also significantly impacts search behavior. Each project category from residential renovations to commercial developments follows a unique client journey with different research patterns and decision timelines. Nearly 50% of "architect near me" searches convert into initial consultations, highlighting the importance of local visibility.
 ## Trust signals that influence decision-making
 Architecture projects represent high-cost, high-trust decisions where credibility indicators heavily influence selection. The most powerful trust signals include:
