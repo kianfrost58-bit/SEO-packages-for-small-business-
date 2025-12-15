@@ -13,6 +13,7 @@ According to research, 30% of mobile searches are location-specific, and clients
 1.	"Residential architect in [city]"
 2.	"Modern commercial architecture Boston"
 3.	"Restaurant design firm near me"
+
 Understanding this behavior how they search and what words they use forms the foundation of effective SEO for architects.
 ## Why local relevance matters more than ever
 Local SEO has become increasingly crucial for architecture firms. Notably, 46% of all Google searches seek local businesses or services, while an impressive 76% of people who search for something nearby visit a business within a day.
